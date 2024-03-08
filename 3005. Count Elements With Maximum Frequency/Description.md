@@ -27,3 +27,7 @@ The **frequency** of an element is the number of occurrences of that element in 
 
 - `1 <= nums.length <= 100`
 - `1 <= nums[i] <= 100`
+
+**Results:** 
+-`Runtime: 35ms`
+-`Memory: 16.39MB`
